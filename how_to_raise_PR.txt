@@ -1,0 +1,35 @@
+Are you hearing Hacktoberfest’s name for the first time or do you still struggling to complete this challenge, then this article is for you. Hacktoberfest is an open-source contribution challenge held each year in the month of October. It is a month-long celebration of open source software run by DigitalOcean and DEV. The main purpose is to give its participants an introductory idea about open source contribution.
+
+What is the Eligibility Criteria?
+
+There are no eligibility criteria. Whether you’re a student or an experienced professional, you’re welcome to participate in this challenge, i.e., it’s open for everyone across the globe.
+
+What are the Prerequisites technology, I need to know beforehand?
+
+The minimum technical requirement is knowledge of the Version Control System. If you know working on Git and GitHub, you’re good enough to participate in this challenge.
+
+Why Should I participate?
+
+If you want to get started with open source contribution, this is the best way to kick-start your journey. Open source contribution experience has an awesome weight on your resume and can give you an edge over other candidates in an interview. It’ll also give you experience. Also, if you’ll complete this challenge, you’ll be awarded an awesome T-shirt along with some stickers and a badge. Your swags will be delivered to your place for free. It’s exciting, isn’t it? Now, if you’re still reading this article, you’re motivated enough for participation. So, it’s time to know the whole process. Here are a few steps along with some tips that will help you to complete this challenge successfully.
+
+Step 1: Register or login for Hacktoberfest with your GitHub account.
+
+Step 2: Contribute to any repository you like, check instructions to contribute in each repository. A good repository has always a good README.md file. If you have difficulty in committing or raising PR, you can prefer Introduction to Github.
+
+Step 3:
+
+Start contributing.
+
+Here are a few steps for making your first PR:
+
+Step 1: Choose any repository available on GitHub. You can search with the tag “hacktoberfest”.
+
+Step 2: Check for the issues present in that repository or raise some issue if you found it’s a requirement.
+
+Step 3: Check whether you’re able to solve that issue with your technical skills or not?
+
+Step 4: If yes, then fork the repository into your own GitHub profile and if not, then search for another repository, until you got an issue which can be resolved by you.
+
+Step 5: Make the required changes to resolve the issue and commit it.
+
+Step 6: If you’re done with all the above-mentioned steps, then you can raise a PR now. You can check your dashboard for getting the updates of your raised PR’s. If your PR is good enough to consider it for the challenge, it’ll be counted otherwise it’ll be flagged. The reason for flagged PR’s could be like you’re raising the PR from a spam repository(you can be saved from it by carefully reading their PR or ask from the maintainer of the repository before submitting the PR) or not good quality of issue resolved. So, be careful about these points. After you submit the desired number of PR’s, you’ll dashboard will be like as shown below. You’ll get mail for your swags within one week and your swag will deliver to your place depending on your region.
