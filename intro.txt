@@ -1,0 +1,9 @@
+Hacktoberfest is an annual, month-long event in October that encourages people to contribute to open-source projects on GitHub and GitLab. Organized by DigitalOcean, along with other partners, it aims to promote collaboration and make it easy for both beginners and experienced developers to participate in the open-source community.
+
+Key Aspects of Hacktoberfest
+Timing: It takes place throughout October each year.
+Contributions: Participants are encouraged to submit pull requests (PRs) to open-source repositories. In recent years, quality has been emphasized over quantity to prevent spammy contributions.
+Rewards: Contributors who complete a certain number of accepted pull requests, usually four, receive limited edition swag like a t-shirt, stickers, and other goodies. Sometimes, there's also the option to plant a tree as a reward instead.
+Learning and Community: Hacktoberfest is a great way for beginners to learn about contributing to open source, collaborate with others, and build connections with other developers and maintainers.
+Project Maintainers: Maintainers of open-source projects can tag issues with "Hacktoberfest" to signal that they welcome contributions. This helps participants find issues that are good entry points.
+Hacktoberfest aims to make open-source contributions more accessible, foster a sense of community, and raise awareness about open-source software.
