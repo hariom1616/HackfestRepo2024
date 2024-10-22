@@ -5,6 +5,7 @@ class GPACalculator:
         self.number_of_courses = number_of_courses
         self.if_invalid_grade = ""
     
+    
     def grade_validator(self):
         for i in range(self.number_of_courses):
             x, y = input(f"Course {i+1} grade: "), int(input(f"Credits for course {i+1}: "))
