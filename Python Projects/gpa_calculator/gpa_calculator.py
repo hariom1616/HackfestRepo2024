@@ -13,6 +13,7 @@ class GPACalculator:
             
             print()
         for x in self.course_grades:
+            
             if x[0].upper() not in GRADE_TO_GP:
                 self.if_invalid_grade = f"{x[0].upper()} is not a valid grade!"
                 self.is_valid_grade = False
