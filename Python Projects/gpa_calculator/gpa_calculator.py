@@ -10,6 +10,7 @@ class GPACalculator:
         for i in range(self.number_of_courses):
             x, y = input(f"Course {i+1} grade: "), int(input(f"Credits for course {i+1}: "))
             self.course_grades.append((x.upper(), y))
+            
             print()
         for x in self.course_grades:
             if x[0].upper() not in GRADE_TO_GP:
